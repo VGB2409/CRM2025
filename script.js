@@ -113,6 +113,9 @@ function createGift() {
     '🎄 Giáng sinh an lành!',
     '⭐ Năm mới hạnh phúc!',
     '🎅 Ho Ho Ho! Quà từ ông già Noel',
+    '🌟 Chúc bạn may mắn lần sau',
+    '🎊 Bạn nhận được tín hiệu sắp có ngiu :>',
+    '🔔 Merry Chrismas !!!',
   ];
 
   gift.addEventListener('click', () => {
